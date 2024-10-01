@@ -6,10 +6,12 @@ export default function Banner() {
   return (
     <div className={styles.banner}>
       <div className={styles.apresentacao}>
-        <h1 className={styles.titulo}>Ola Mundo!</h1>
+        <h1 className={styles.titulo}>Olá Mundo!</h1>
 
         <p className={styles.paragrafo}>
-        Olá, meu nome é Sandro, sou desenvolvedor front-end com paixão por criar interfaces intuitivas e funcionais que transformam ideias em experiências digitais impactantes."
+          Olá, meu nome é Sandro, sou desenvolvedor front-end com paixão por
+          criar interfaces intuitivas e funcionais que transformam ideias em
+          experiências digitais impactantes."
         </p>
       </div>
 

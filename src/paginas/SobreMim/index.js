@@ -12,28 +12,28 @@ export default function SobreMim() {
 
       <p className={styles.paragrafo}>
         {" "}
-        Profissional de TI com 6 anos de experiência na área, destacando-se
-        especialmente em testes de software e no desenvolvimento com React.js.
-        Ao longo de sua carreira, ele tem se dedicado a aprimorar suas
-        habilidades técnicas e a aplicar boas práticas de desenvolvimento para
-        garantir a qualidade e a eficiência dos projetos em que atua...
+        Sou um profissional de TI com 6 anos de experiência, atualmente em
+        testes de software e mais de 20 certificaçoes no desenvolvimento
+        Front-End como principal habilidade em React.js. Ao longo da minha
+        carreira, tenho me dedicado a aprimorar minhas habilidades técnicas e a
+        aplicar boas práticas de desenvolvimento, garantindo a qualidade e a
+        eficiência dos projetos em que atuo....
       </p>
       <br />
       <p className={styles.paragrafo}>
         {" "}
-        bacharelado em Sistemas de Informação, onde tem aprofundado seus
-        conhecimentos em diversas áreas da tecnologia. Sua formação acadêmica
-        lhe proporciona uma base sólida para enfrentar os desafios do mercado,
-        além de contribuir para o desenvolvimento de soluções inovadoras e
-        eficazes.
+        Sou Bacharel em Sistemas de Informação, o que me permitiu aprofundar
+        conhecimentos em diversas áreas da tecnologia. Essa formação acadêmica
+        me ajudou a ter uma base sólida para enfrentar os desafios do mercado e
+        contribuir no desenvolvimento de soluções inovadoras e eficazes
       </p>
       <br />
       <p className={styles.paragrafo}>
-        Buscando sempre expandir suas competências, Sandro também concluiu uma
-        pós-graduação em Inteligência Artificial. Com isso, ele tem se
-        especializado em aplicar técnicas avançadas de IA em seus projetos, o
-        que o posiciona como um profissional preparado para as demandas
-        tecnológicas atuais e futuras.
+        Estou sempre buscando expandir minhas competências, concluí também uma
+        pós-graduação em Inteligência Artificial. Com isso, tenho me
+        especializado em aplicar técnicas avançadas de IA nos projetos em que
+        trabalho, me posicionando como um profissional preparado para as
+        demandas tecnológicas atuais e futuras.
       </p>
     </PostModelo>
   );
